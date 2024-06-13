@@ -5,6 +5,9 @@ Your project's description...
 - Preview: https://main--{repo}--{owner}.hlx.page/
 - Live: https://main--{repo}--{owner}.hlx.live/
 
+- Preview: https://main--shreyasr-xwalk--shreyasrao92.hlx.page/
+- Live: https://main--shreyasr-xwalk--shreyasrao92.hlx.live/
+
 ## Installation
 
 ```sh
